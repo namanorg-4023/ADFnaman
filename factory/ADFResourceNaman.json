@@ -1,0 +1,9 @@
+{
+	"name": "ADFResourceNaman",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "centralindia"
+}
